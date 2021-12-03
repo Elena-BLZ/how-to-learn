@@ -1,0 +1,9 @@
+/*микс для анимации ссылок при наведении*/
+
+.link-animation {
+  transition: opacity .3s ease-in;
+}
+
+.link-animation:hover {
+  opacity: .5;
+}
