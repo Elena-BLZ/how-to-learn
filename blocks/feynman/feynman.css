@@ -4,7 +4,7 @@
   background-position: bottom left;
   background-repeat: no-repeat;
   width: 100%;
-  height: 890px;
+  min-height: 890px;
   position: relative;
   padding-top: 100px;
 }
